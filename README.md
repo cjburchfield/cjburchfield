@@ -1,16 +1,36 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**cjburchfield/cjburchfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+### My name is Jamie, I'm a fullstack software engineer.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 I am working on an artwork of the day generator 👩‍💻
+
+🌱 I am currently learning MongoDB 🌱
+  
+❤️ I enjoy crosswords, organizing my life in Notion, and my English Bulldog, Opie ❤️
+  
+🎓 I studied Art History, American History, and Political Science 🎓
+  
+📫 I can be reached at burchfield.camilla@gmail.com 📫
+  
+  
+### I've worked at:
+    
+🔨 A company founded in 1744 (Sotheby's) 🔨
+  
+🔍  One of the biggest companies in the world (Google) 🔍
+  
+🎨 A company with under 10 employees (Lobus) 🎨
+  
+### I've worked with:
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,rails,ruby,aws)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,postgres,postman,webpack)](https://skillicons.dev)
+
+</div>
+
