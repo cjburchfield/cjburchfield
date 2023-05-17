@@ -18,7 +18,7 @@
   
 ### I've worked at:
     
-🔨 A company founded in 1744 (**Sotheby**'s) 🔨
+🔨 A company founded in 1744 (**Sotheby's**) 🔨
   
 🔍  One of the biggest companies in the world (**Google**) 🔍
   
