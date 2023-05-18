@@ -9,7 +9,7 @@
 
 🌱 I am currently learning MongoDB 🌱
   
-❤️ I enjoy crosswords, organizing my life in Notion, and my English Bulldog, Opie ❤️
+❤️ I enjoy crosswords, organizing too much of my life in Notion, and my English Bulldog, Opie ❤️
   
 🎓 I studied Art History, American History, and Political Science 🎓
   
