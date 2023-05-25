@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-### My name is Jamie, I'm a fullstack software engineer.
+### My name is Jamie, I'm a software engineer.
   
 
 👩‍💻 I am working on an artwork of the day generator 👩‍💻
